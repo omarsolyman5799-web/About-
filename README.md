@@ -10,7 +10,7 @@ Always curious. Always learning. Always looking for new ways to understand compl
 
 <br>
 
-![Molecular Docking](YOUR_GIF_OR_IMAGE_LINK.gif)
+![Molecular Docking](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhjbDBxNG8yam05YXZ5MnUyNWo2OGU2d25wZjg0ZDlncGdiZXZ5MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jMbfmwkrcm82PRlYa9/giphy.gif.gif)
 
 </div>
 
